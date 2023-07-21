@@ -1,4 +1,4 @@
-# Importand questions to ask for detailed design:
+# Importand questions to ask for detailed design documentations:
 
 There is no hard and fast rule on when a spec if appropriate.  It's a function of complexity, certainty, and risk.  This is a desciprtion of a proposed plan to solve a problem. This is a tool to ensure that the right work gets done. (Final design doc is about 3 paragraphs max - per feature/system/consideration)
 
